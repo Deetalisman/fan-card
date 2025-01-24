@@ -14,12 +14,12 @@ export default function Home() {
         </div>
         <div className="bg-black h-[13rem] relative text-yellow-500 mt-[3rem] w-[22rem] px-[5%] pt-[1rem] rounded-xl ">
           <p className="text-center">MEMBERSHIP CARD</p>
-          <p className="text-[0.8rem] mt-2">Member Name : Rhonda Chesley</p>
+          <p className="text-[0.8rem] mt-2">Member Name : Sassy Chris</p>
           <p className="text-[0.8rem] mt-1">
-            Member Number : 8945 - 5629 - 2895 - 9462
+            Member Number : 6435 - 8733 - 4678 - 2SA
           </p>
-          <p className="text-[0.8rem] mt-1">Member Address : Lebanon Tn</p>
-          <p className="text-[0.8rem] mt-1">Exp Date : 12 - 10 - 2025</p>
+          <p className="text-[0.8rem] mt-1">Member Address : Maine</p>
+          <p className="text-[0.8rem] mt-1">Exp Date : 12 - 24 - 2025</p>
           <p className="text-[0.6rem]  mt-3 mr-20">
             Do not share your card with anyone as your card number could be
             stolen and used else where.
@@ -28,10 +28,10 @@ export default function Home() {
             Signed by Managment..
           </p>
           <Image
-            src="/image0 (3).jpeg"
+            src="/image111.jpeg"
             width={80}
-            height={80}
-            className="absolute right-5 bottom-6 rounded-md"
+            height={75}
+            className="absolute right-5 bottom-4 rounded-md"
           />
         </div>
       </div>
